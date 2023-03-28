@@ -1,6 +1,6 @@
 
 var country = "Nigeria"
-function main(){
+function Main(){
     return(
 <main>
      <section>
@@ -24,4 +24,4 @@ function main(){
     );
 }
 
-export default main;
+export default Main;
